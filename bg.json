@@ -87,7 +87,7 @@
             
          ],
          "fill":[
-            "#000000",
+            "#07080a",
             "#320065",
             "#420084",
             "#5900AD",
@@ -101,7 +101,7 @@
          "translateY":718,
          "type":"circle",
          "stroke":[
-            "#000000"
+            "#07080a"
          ],
          "strokeWidth":0,
          "numSides":3,
@@ -673,7 +673,48 @@
                }
             ],
             "scroll":[
-
+               {
+                  "type":"scroll",
+                  "id":"6509f43f-070d-4831-a42f-0856d6e70e4b",
+                  "prop":"turbulence",
+                  "progress":0,
+                  "momentum":0.5,
+                  "range":0.5,
+                  "offset":0,
+                  "mode":"scrollIntoView",
+                  "delta":0.01,
+                  "sceneTop":0,
+                  "startScroll":0,
+                  "endScroll":0,
+                  "lastScrollTop":0,
+                  "absScrollValue":true,
+                  "value":0,
+                  "uniformData":{
+                     "type":"1f",
+                     "name":"uTurbulence"
+                  }
+               },
+               {
+                  "type":"scroll",
+                  "id":"bf6481c6-5e40-4637-a585-6976ccc01d53",
+                  "prop":"frequency",
+                  "progress":0,
+                  "momentum":0.5,
+                  "range":0.5,
+                  "offset":0,
+                  "mode":"scrollIntoView",
+                  "delta":0.01,
+                  "sceneTop":0,
+                  "startScroll":0,
+                  "endScroll":0,
+                  "lastScrollTop":0,
+                  "absScrollValue":true,
+                  "value":0,
+                  "uniformData":{
+                     "type":"1f",
+                     "name":"uFrequency"
+                  }
+               }
             ],
             "hover":[
                
